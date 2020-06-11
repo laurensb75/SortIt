@@ -17,6 +17,7 @@
 		5A6F0C212492380100BAE462 /* StoryboardLau.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A6F0C202492380100BAE462 /* StoryboardLau.storyboard */; };
 		5A6F0C232492382900BAE462 /* StoryboardMar.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A6F0C222492382900BAE462 /* StoryboardMar.storyboard */; };
 		5A6F0C252492383A00BAE462 /* StoryboardTit.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A6F0C242492383A00BAE462 /* StoryboardTit.storyboard */; };
+		5A6F0C272492396600BAE462 /* HomeScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A6F0C262492396600BAE462 /* HomeScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		5A6F0C202492380100BAE462 /* StoryboardLau.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = StoryboardLau.storyboard; sourceTree = "<group>"; };
 		5A6F0C222492382900BAE462 /* StoryboardMar.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = StoryboardMar.storyboard; sourceTree = "<group>"; };
 		5A6F0C242492383A00BAE462 /* StoryboardTit.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = StoryboardTit.storyboard; sourceTree = "<group>"; };
+		5A6F0C262492396600BAE462 /* HomeScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,11 +69,12 @@
 				5A6F0C092492375000BAE462 /* AppDelegate.swift */,
 				5A6F0C0B2492375000BAE462 /* SceneDelegate.swift */,
 				5A6F0C0D2492375000BAE462 /* ViewController.swift */,
-				5A6F0C202492380100BAE462 /* StoryboardLau.storyboard */,
 				5A6F0C222492382900BAE462 /* StoryboardMar.storyboard */,
 				5A6F0C242492383A00BAE462 /* StoryboardTit.storyboard */,
 				5A6F0C0F2492375000BAE462 /* Main.storyboard */,
 				5A6F0C152492375100BAE462 /* Assets.xcassets */,
+				5A6F0C202492380100BAE462 /* StoryboardLau.storyboard */,
+				5A6F0C262492396600BAE462 /* HomeScreenViewController.swift */,
 				5A6F0C172492375100BAE462 /* LaunchScreen.storyboard */,
 				5A6F0C1A2492375100BAE462 /* Info.plist */,
 				5A6F0C122492375000BAE462 /* SortIt.xcdatamodeld */,
@@ -157,6 +160,7 @@
 				5A6F0C0E2492375000BAE462 /* ViewController.swift in Sources */,
 				5A6F0C0A2492375000BAE462 /* AppDelegate.swift in Sources */,
 				5A6F0C0C2492375000BAE462 /* SceneDelegate.swift in Sources */,
+				5A6F0C272492396600BAE462 /* HomeScreenViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
